@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-/*
-	Name - Ansh Shah
-	Email - shah615@purdue.edu
-	Lab Time - Thursday 1:30 PM
-
-*/
 int main()
 {
 	float type1;
